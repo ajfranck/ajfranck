@@ -31,4 +31,4 @@ My interests revolve around the convergence of applied math and computer science
 
 ### Math Background
 
-Vector calculus, computational/applied linear algebra, differential equations, discrete mathematics, numerical optimization, and abstract algebra. Physics studies in dynamical systems, mathematical physics, & mechanics. Graduate level coursework in numerical optimization, mathematics of machine learning, and theory of deep learning.
+Experience in vector calculus, computational and applied linear algebra, differential equations, discrete mathematics, numerical optimization, and abstract algebra. Physics background in dynamical systems, mathematical physics, and mechanics. Studied at a graduate level in numerical optimization, mathematics of machine learning, and theory of deep learning.
