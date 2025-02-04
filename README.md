@@ -4,7 +4,7 @@ I'm a current student at Occidental College, where I'm studying applied math, co
 
 My interests revolve around the convergence of applied math and computer science, particularly in deep/machine learning, signal processing, and computer vision. Beyond that, I'm passionate about leveraging my knowledge of physics and math in the fields of computer graphics & simulations, game engine design, and computational physics.
 
-My website: <a href="https://andyfranck.net">
+View my current research [here](https://andyfranck.net)
 
 ## My Skills
 
