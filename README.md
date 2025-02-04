@@ -1,8 +1,8 @@
 ## Hi, I'm Andy 🦦
 
-I'm a current student at Occidental College, where I'm studying applied math, computer science, and physics.
+I'm Andy Franck, a triple major in math, CS, and physics at Occidental.
 
-My interests revolve around the convergence of applied math and computer science, particularly in deep/machine learning, signal processing, and computer vision. Beyond that, I'm passionate about leveraging my knowledge of physics and math in the fields of computer graphics & simulations, game engine design, and computational physics.
+My research interests include numerical linear algebra (NLA), signal processing and deep/machine learning. I'm also interested in computational electronic and acoustic medicine in anesthesia.
 
 View my current research [here](https://andyfranck.net)
 
