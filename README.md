@@ -6,9 +6,10 @@ My research interests include numerical linear algebra, signal processing and de
 
 View my current research [here](https://andyfranck.net)
 
+<!--
 ## My Skills
 
-<!--
+
 ### Programming Languages
 
 <p>
