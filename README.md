@@ -1,6 +1,6 @@
 ## Hi, I'm Andy 🦦
 
-I'm Andy Franck, a triple major in math, CS, and physics at Occidental.
+I'm Andy Franck, a triple major in math, CS, and physics at Occidental and Caltech.
 
 My research interests include numerical linear algebra, signal processing and learning systems. I also have a personal interest in electronic and acoustic medicine in anesthesia.
 
