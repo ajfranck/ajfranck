@@ -36,6 +36,6 @@ View my current research [here](https://andyfranck.net)
 
 ### Math Background
 
-Advanced coursework in vector calculus, applied linear algebra, differential equations, group theory/abstract algebra. Additional focus on data structures and algorithms, discrete math and information theory. Physics studies include classical mechanics, electromagnetism, computer simulations, dynamical systems, and Fourier analysis.
+Advanced coursework in vector calculus, applied linear algebra, ordinary & partial differential equations, group theory/abstract algebra, probability, stochastic processes. Additional focus on data structures and algorithms, signal processing systems/transforms, discrete math and information theory. Physics studies include classical mechanics, electromagnetism, computer simulations, dynamical systems, and Fourier analysis.
 
 Graduate-level studies in numerical optimization, mathematics of machine learning, and theory of deep learning.
