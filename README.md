@@ -33,9 +33,10 @@ View my current research [here](https://andyfranck.net)
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
 </p>
 -->
-
+<!--
 ### Math Background
 
 Advanced coursework in vector calculus, applied linear algebra, ordinary & partial differential equations, group theory/abstract algebra, probability, stochastic processes, and information theory. Additional work in data structures, algorithms, and signal processing systems/transforms. Physics studies include classical mechanics, electromagnetism, computer simulations, dynamical systems, and Fourier analysis.
 
 Graduate-level studies in numerical optimization, mathematics of machine learning, and theory of deep learning.
+-->
