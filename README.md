@@ -2,7 +2,7 @@
 
 I'm Andy Franck, a triple major in math, CS, and physics at Occidental and Caltech.
 
-My research interests include numerical linear algebra, signal processing and learning systems. I also have a personal interest in electronic and acoustic medicine in anesthesia.
+My research interests include deep/machine learning, signal processing and numerical linear algebra. I also have personal interests in computational electronic and acoustic medicine in anesthesia.
 
 View my current research [here](https://andyfranck.net)
 
